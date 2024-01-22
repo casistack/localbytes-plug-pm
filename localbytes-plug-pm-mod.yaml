@@ -52,7 +52,7 @@ wifi:
   ap:
     ssid: "${friendly_name}"
 
-captive_portal:
+#captive_portal:
 
 web_server:
   port: 80
